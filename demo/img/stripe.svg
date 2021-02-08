@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none"
+     width="400" height="400">
+    <defs>
+        <path fill="#FFF" fill-opacity=".4" d="M3 200v-400h-6v400h6z" id="a"/>
+    </defs>
+    <use xlink:href="#a" transform="translate(0 200)"/>
+    <use xlink:href="#a" transform="translate(20 200)"/>
+    <use xlink:href="#a" transform="translate(40 200)"/>
+    <use xlink:href="#a" transform="translate(60 200)"/>
+    <use xlink:href="#a" transform="translate(80 200)"/>
+    <use xlink:href="#a" transform="translate(100 200)"/>
+    <use xlink:href="#a" transform="translate(120 200)"/>
+    <use xlink:href="#a" transform="translate(140 200)"/>
+    <use xlink:href="#a" transform="translate(160 200)"/>
+    <use xlink:href="#a" transform="translate(180 200)"/>
+    <use xlink:href="#a" transform="translate(200 200)"/>
+    <use xlink:href="#a" transform="translate(220 200)"/>
+    <use xlink:href="#a" transform="translate(240 200)"/>
+    <use xlink:href="#a" transform="translate(260 200)"/>
+    <use xlink:href="#a" transform="translate(280 200)"/>
+    <use xlink:href="#a" transform="translate(300 200)"/>
+    <use xlink:href="#a" transform="translate(320 200)"/>
+    <use xlink:href="#a" transform="translate(340 200)"/>
+    <use xlink:href="#a" transform="translate(360 200)"/>
+    <use xlink:href="#a" transform="translate(380 200)"/>
+    <use xlink:href="#a" transform="translate(400 200)"/>
+</svg>
