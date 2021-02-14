@@ -4,28 +4,6 @@ body {
     height: 100%;
 }
 
-
-/************************************
- * Fix for Google Chrome on Android *
- ************************************/
-body {
-    line-height: 0;
-    font-size: 0;
-    position: fixed;
-    overflow: hidden;
-}
-
-body > div {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-}
-
-
-
 html,
 body,
 object,
