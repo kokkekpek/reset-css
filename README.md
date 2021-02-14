@@ -1,7 +1,10 @@
 # README
 
+## Base
+Based on [sanitize.css](https://github.com/csstools/sanitize.css)
+
 ## Build demo
-```bash
+```sh
 cd /path/to/project
 yarn install
 yarn webpack
