@@ -15,6 +15,6 @@ yarn webpack
 yarn add kokkekpek/reset-css
 ```
 
-```js
+```ts
 import 'reset-css'
 ```
